@@ -1,0 +1,5 @@
+{
+  "name": "AutoTexter Studio",
+  "description": "A web-based configurator to generate automation payloads for iOS text messaging, replicating the interface and logic of native auto-texter tools.",
+  "requestFramePermissions": []
+}
